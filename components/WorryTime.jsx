@@ -88,7 +88,7 @@ export default function WorryTime() {
               htmlFor="worry"
               className="block text-sm font-medium text-gray-700 dark:text-gray-300"
             >
-              What's worrying you?
+              What&apos;s worrying you?
             </label>
             <textarea
               id="worry"

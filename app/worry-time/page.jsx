@@ -121,7 +121,7 @@ export default function WorryTime() {
             </div>
             <div className="mb-4">
               <label className="block text-gray-700 dark:text-gray-300 mb-2">
-                What's worrying you?
+                What&apos;s worrying you?
               </label>
               <textarea
                 className="w-full p-2 border rounded-md dark:bg-gray-700 dark:text-white"
@@ -160,7 +160,7 @@ export default function WorryTime() {
               Worry Time Completed
             </h2>
             <p className="text-gray-600 dark:text-gray-400">
-              Great job! You've completed your worry time for today. Remember to
+              Great job! You&apos;ve completed your worry time for today. Remember to
               focus on the present and the things you can control.
             </p>
           </div>

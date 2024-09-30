@@ -165,7 +165,7 @@ export default function MoodTracker() {
             animate={{ opacity: 1, y: 0 }}
             className="text-center text-lg font-medium text-gray-800 dark:text-white"
           >
-            You're feeling {selectedMood} today!
+            You&apos;re feeling {selectedMood} today!
           </motion.p>
         )}
       </div>
