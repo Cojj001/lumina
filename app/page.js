@@ -220,14 +220,14 @@ function StepCard({ number, title, description }) {
   );
 }
 
-function TestimonialCard({ quote, author }) {
-  return (
-    <div className="bg-blue-50 dark:bg-gray-800 rounded-lg p-6 shadow-md">
-      <Smile className="w-12 h-12 text-yellow-500 mb-4" />
-      <p className="text-blue-800 dark:text-blue-200 italic mb-4">"{quote}"</p>
-      <p className="text-blue-600 dark:text-blue-300 font-semibold">
-        - {author}
-      </p>
-    </div>
-  );
-}
+// function TestimonialCard({ quote, author }) {
+//   return (
+//     <div className="bg-blue-50 dark:bg-gray-800 rounded-lg p-6 shadow-md">
+//       <Smile className="w-12 h-12 text-yellow-500 mb-4" />
+//       <p className="text-blue-800 dark:text-blue-200 italic mb-4">&quot{quote}&quot</p>
+//       <p className="text-blue-600 dark:text-blue-300 font-semibold">
+//         - {author}
+//       </p>
+//     </div>
+//   );
+// }
