@@ -1,5 +1,5 @@
 // app/modules/[id]/page.js
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 
 export default function ModulePage({ params }) {
   const { id } = params;
